@@ -1,0 +1,44 @@
+# Environment & Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*.swo
+
+# dbt artifacts
+dbt_project/target/
+dbt_project/logs/
+dbt_project/dbt_packages/
+
+# Airflow logs
+logs/
+
+# Data (large JSON files — keep scripts, ignore raw data)
+data/raw/2022/
+data/raw/2023/
+data/raw/2024/
+
+# PDFs and roadmap generators (personal files, not part of the platform)
+*.pdf
+create_roadmap.py
+create_complete_roadmap.py
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+postgres_data/

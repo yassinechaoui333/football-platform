@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: bronze
+    database: football_db
+    schema: public
+    tables:
+      - name: bronze_standings
+      - name: bronze_top_scorers
+      - name: bronze_team_results
+      - name: bronze_player_stats
