@@ -1,0 +1,1894 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "140",
+    "season": "2024"
+  },
+  "errors": [],
+  "results": 19,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 386828,
+        "name": "Lamine Yamal",
+        "firstname": "Lamine",
+        "lastname": "Yamal Nasraoui Ebana",
+        "age": 18,
+        "birth": {
+          "date": "2007-07-13",
+          "place": "Matar\u00f3",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "179",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/386828.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 32,
+            "minutes": 2771,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.785294",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 95,
+            "on": 47
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 13,
+            "saves": null
+          },
+          "passes": {
+            "total": 1365,
+            "key": 60,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 42,
+            "blocks": null,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 463,
+            "won": 247
+          },
+          "dribbles": {
+            "attempts": 260,
+            "success": 144,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 60,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1496,
+        "name": "Raphinha",
+        "firstname": "Raphael",
+        "lastname": "Dias Belloli",
+        "age": 29,
+        "birth": {
+          "date": "1996-12-14",
+          "place": "Porto Alegre",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1496.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 34,
+            "minutes": 2844,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.802777",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 87,
+            "on": 43
+          },
+          "goals": {
+            "total": 18,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 1249,
+            "key": 91,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 34,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 244,
+            "won": 136
+          },
+          "dribbles": {
+            "attempts": 100,
+            "success": 55,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 182219,
+        "name": "\u00c1lex Baena",
+        "firstname": "Alejandro",
+        "lastname": "Baena Rodr\u00edguez",
+        "age": 24,
+        "birth": {
+          "date": "2001-07-20",
+          "place": "Roquetas de Mar",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/182219.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2602,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 49,
+            "on": 18
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 1043,
+            "key": 99,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 2,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 259,
+            "won": 112
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 47,
+            "committed": 43
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 30,
+            "minutes": 2607,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.500000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 14,
+            "bench": 2
+          },
+          "shots": {
+            "total": 49,
+            "on": 18
+          },
+          "goals": {
+            "total": 7,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 1043,
+            "key": 99,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 28,
+            "blocks": 2,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 259,
+            "won": 112
+          },
+          "dribbles": {
+            "attempts": 48,
+            "success": 21,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 47,
+            "committed": 43
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 762,
+        "name": "Vin\u00edcius J\u00fanior",
+        "firstname": "Vin\u00edcius Jos\u00e9",
+        "lastname": "Paix\u00e3o de Oliveira J\u00fanior",
+        "age": 25,
+        "birth": {
+          "date": "2000-07-12",
+          "place": "S\u00e3o Gon\u00e7alo",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/762.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 541,
+            "name": "Real Madrid",
+            "logo": "https://media.api-sports.io/football/teams/541.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 30,
+            "lineups": 27,
+            "minutes": 2257,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.373333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 60,
+            "on": 28
+          },
+          "goals": {
+            "total": 11,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 824,
+            "key": 59,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": null,
+            "interceptions": 3
+          },
+          "duels": {
+            "total": 365,
+            "won": 172
+          },
+          "dribbles": {
+            "attempts": 176,
+            "success": 80,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 70,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 129718,
+        "name": "J. Bellingham",
+        "firstname": "Jude Victor William",
+        "lastname": "Bellingham",
+        "age": 22,
+        "birth": {
+          "date": "2003-06-29",
+          "place": "Stourbridge",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "186",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/129718.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 541,
+            "name": "Real Madrid",
+            "logo": "https://media.api-sports.io/football/teams/541.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 31,
+            "lineups": 31,
+            "minutes": 2493,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.483870",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 46,
+            "on": 23
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 1510,
+            "key": 42,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 62,
+            "blocks": 2,
+            "interceptions": 28
+          },
+          "duels": {
+            "total": 344,
+            "won": 196
+          },
+          "dribbles": {
+            "attempts": 68,
+            "success": 40,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 64,
+            "committed": 33
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 745,
+        "name": "Isco",
+        "firstname": "Francisco Rom\u00e1n",
+        "lastname": "Alarc\u00f3n Su\u00e1rez",
+        "age": 33,
+        "birth": {
+          "date": "1992-04-21",
+          "place": "Benalm\u00e1dena",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "176",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/745.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 543,
+            "name": "Real Betis",
+            "logo": "https://media.api-sports.io/football/teams/543.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 22,
+            "lineups": 20,
+            "minutes": 1551,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.513636",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 23,
+            "on": 15
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 1072,
+            "key": 61,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 20,
+            "blocks": null,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 222,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 55,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 44,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47294,
+        "name": "I. Williams",
+        "firstname": "I\u00f1aki Arthuer",
+        "lastname": "Dannis Williams",
+        "age": 31,
+        "birth": {
+          "date": "1994-06-15",
+          "place": "Bilbao",
+          "country": "Spain"
+        },
+        "nationality": "Ghana",
+        "height": "186",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47294.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 531,
+            "name": "Athletic Club",
+            "logo": "https://media.api-sports.io/football/teams/531.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 32,
+            "minutes": 2653,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.014285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 48,
+            "on": 24
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 686,
+            "key": 43,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 18,
+            "blocks": 5,
+            "interceptions": 11
+          },
+          "duels": {
+            "total": 269,
+            "won": 117
+          },
+          "dribbles": {
+            "attempts": 87,
+            "success": 31,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 39,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 56,
+        "name": "A. Griezmann",
+        "firstname": "Antoine",
+        "lastname": "Griezmann",
+        "age": 34,
+        "birth": {
+          "date": "1991-03-21",
+          "place": "M\u00e2con",
+          "country": "France"
+        },
+        "nationality": "France",
+        "height": "176",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/56.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 530,
+            "name": "Atletico Madrid",
+            "logo": "https://media.api-sports.io/football/teams/530.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 29,
+            "minutes": 2478,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.192105",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": 20,
+            "bench": 9
+          },
+          "shots": {
+            "total": 36,
+            "on": 18
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 1306,
+            "key": 50,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 1,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 185,
+            "won": 91
+          },
+          "dribbles": {
+            "attempts": 32,
+            "success": 15,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 30510,
+        "name": "\u00c1lex Berenguer",
+        "firstname": "Alejandro",
+        "lastname": "Berenguer Remiro",
+        "age": 30,
+        "birth": {
+          "date": "1995-07-04",
+          "place": "Pamplona",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "175",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/30510.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 531,
+            "name": "Athletic Club",
+            "logo": "https://media.api-sports.io/football/teams/531.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 32,
+            "minutes": 2351,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.983333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 39,
+            "on": 19
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 754,
+            "key": 47,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 30,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 306,
+            "won": 119
+          },
+          "dribbles": {
+            "attempts": 74,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 29
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 46742,
+        "name": "Dani Rodr\u00edguez",
+        "firstname": "Daniel Jos\u00e9",
+        "lastname": "Rodr\u00edguez V\u00e1zquez",
+        "age": 37,
+        "birth": {
+          "date": "1988-06-06",
+          "place": "Betanzos",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "178",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/46742.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 798,
+            "name": "Mallorca",
+            "logo": "https://media.api-sports.io/football/teams/798.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 30,
+            "minutes": 2175,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.932432",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 22,
+            "on": 10
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 593,
+            "key": 33,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 49,
+            "blocks": 3,
+            "interceptions": 12
+          },
+          "duels": {
+            "total": 286,
+            "won": 133
+          },
+          "dribbles": {
+            "attempts": 30,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 40,
+            "committed": 51
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 184226,
+        "name": "Yeremy Pino",
+        "firstname": "Yeremy Jes\u00fas",
+        "lastname": "Pino Santos",
+        "age": 23,
+        "birth": {
+          "date": "2002-10-20",
+          "place": "Las Palmas de Gran Canaria",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "172",
+        "weight": "65",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/184226.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 30,
+            "minutes": 1949,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.926470",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 17,
+            "on": 9
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 654,
+            "key": 38,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 60,
+            "blocks": 3,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 269,
+            "won": 127
+          },
+          "dribbles": {
+            "attempts": 50,
+            "success": 25,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 30,
+            "committed": 49
+          },
+          "cards": {
+            "yellow": 11,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 70500,
+        "name": "Sergi Cardona",
+        "firstname": "Sergi",
+        "lastname": "Cardona Berm\u00fadez",
+        "age": 26,
+        "birth": {
+          "date": "1999-07-08",
+          "place": "Lloret de Mar",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "185",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/70500.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 34,
+            "minutes": 2955,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.108571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 15,
+            "on": 6
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 7,
+            "saves": null
+          },
+          "passes": {
+            "total": 1118,
+            "key": 46,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 71,
+            "blocks": 7,
+            "interceptions": 40
+          },
+          "duels": {
+            "total": 269,
+            "won": 149
+          },
+          "dribbles": {
+            "attempts": 27,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 28,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 11,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 931,
+        "name": "Ferran Torres",
+        "firstname": "Ferran",
+        "lastname": "Torres Garc\u00eda",
+        "age": 25,
+        "birth": {
+          "date": "2000-02-29",
+          "place": "Foios",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "182",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/931.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 529,
+            "name": "Barcelona",
+            "logo": "https://media.api-sports.io/football/teams/529.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 19,
+            "minutes": 1042,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.084000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 9,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 35,
+            "on": 20
+          },
+          "goals": {
+            "total": 9,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 317,
+            "key": 19,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 9,
+            "blocks": 1,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 72,
+            "won": 36
+          },
+          "dribbles": {
+            "attempts": 18,
+            "success": 11,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 12,
+            "committed": 5
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1708,
+        "name": "Dani Raba",
+        "firstname": "Daniel",
+        "lastname": "Raba Antol\u00edn",
+        "age": 30,
+        "birth": {
+          "date": "1995-10-29",
+          "place": "Santander",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1708.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 537,
+            "name": "Leganes",
+            "logo": "https://media.api-sports.io/football/teams/537.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 31,
+            "minutes": 1896,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.193103",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 3,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 31,
+            "on": 17
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 545,
+            "key": 47,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 37,
+            "blocks": 3,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 296,
+            "won": 143
+          },
+          "dribbles": {
+            "attempts": 83,
+            "success": 45,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 56,
+            "committed": 40
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 4,
+            "missed": 1,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 162712,
+        "name": "\u00d3scar Mingueza",
+        "firstname": "\u00d3scar",
+        "lastname": "Mingueza Garc\u00eda",
+        "age": 26,
+        "birth": {
+          "date": "1999-05-13",
+          "place": "Santa Perp\u00e8tua de Mogoda",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "184",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/162712.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 538,
+            "name": "Celta Vigo",
+            "logo": "https://media.api-sports.io/football/teams/538.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 34,
+            "lineups": 33,
+            "minutes": 2741,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.115151",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 22,
+            "on": 10
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 1779,
+            "key": 35,
+            "accuracy": 43
+          },
+          "tackles": {
+            "total": 38,
+            "blocks": 5,
+            "interceptions": 23
+          },
+          "duels": {
+            "total": 229,
+            "won": 106
+          },
+          "dribbles": {
+            "attempts": 59,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 31,
+            "committed": 24
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 403554,
+        "name": "Christantus Uche",
+        "firstname": "Christantus Ugonna",
+        "lastname": "Uche",
+        "age": 22,
+        "birth": {
+          "date": "2003-05-19",
+          "place": "Owerri",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "190",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/403554.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 546,
+            "name": "Getafe",
+            "logo": "https://media.api-sports.io/football/teams/546.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 32,
+            "minutes": 2501,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "6.851515",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 35,
+            "on": 14
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 566,
+            "key": 29,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 35,
+            "blocks": 2,
+            "interceptions": 10
+          },
+          "duels": {
+            "total": 524,
+            "won": 224
+          },
+          "dribbles": {
+            "attempts": 79,
+            "success": 30,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 68,
+            "committed": 55
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": null,
+            "red": 2
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 19337,
+        "name": "O. McBurnie",
+        "firstname": "Oliver Robert",
+        "lastname": "McBurnie",
+        "age": 29,
+        "birth": {
+          "date": "1996-06-04",
+          "place": "Leeds",
+          "country": "England"
+        },
+        "nationality": "Scotland",
+        "height": "188",
+        "weight": "79",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19337.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 534,
+            "name": "Las Palmas",
+            "logo": "https://media.api-sports.io/football/teams/534.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 30,
+            "minutes": 1861,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.806060",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 8,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 28,
+            "on": 13
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 410,
+            "key": 24,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 15,
+            "blocks": 5,
+            "interceptions": 6
+          },
+          "duels": {
+            "total": 308,
+            "won": 139
+          },
+          "dribbles": {
+            "attempts": 34,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 19,
+            "committed": 32
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 3246,
+        "name": "N. P\u00e9p\u00e9",
+        "firstname": "Nicolas",
+        "lastname": "P\u00e9p\u00e9",
+        "age": 30,
+        "birth": {
+          "date": "1995-05-29",
+          "place": "Mantes-la-Jolie",
+          "country": "France"
+        },
+        "nationality": "C\u00f4te d'Ivoire",
+        "height": "183",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/3246.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 533,
+            "name": "Villarreal",
+            "logo": "https://media.api-sports.io/football/teams/533.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 21,
+            "minutes": 1495,
+            "number": null,
+            "position": "Forward",
+            "rating": "7.103571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 7,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 29,
+            "on": 17
+          },
+          "goals": {
+            "total": 3,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 576,
+            "key": 33,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 22,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 189,
+            "won": 90
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 25,
+            "committed": 20
+          },
+          "cards": {
+            "yellow": 3,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 47336,
+        "name": "Darder",
+        "firstname": "Sergi",
+        "lastname": "Darder Moll",
+        "age": 32,
+        "birth": {
+          "date": "1993-12-22",
+          "place": "Art\u00e0",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "180",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47336.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 798,
+            "name": "Mallorca",
+            "logo": "https://media.api-sports.io/football/teams/798.png"
+          },
+          "league": {
+            "id": 140,
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://media.api-sports.io/football/leagues/140.png",
+            "flag": "https://media.api-sports.io/flags/es.svg",
+            "season": 2024
+          },
+          "games": {
+            "appearences": 38,
+            "lineups": 37,
+            "minutes": 2770,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.039473",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 27,
+            "on": 9
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 6,
+            "saves": null
+          },
+          "passes": {
+            "total": 1116,
+            "key": 55,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 40,
+            "blocks": 1,
+            "interceptions": 16
+          },
+          "duels": {
+            "total": 244,
+            "won": 124
+          },
+          "dribbles": {
+            "attempts": 63,
+            "success": 34,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 37,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}

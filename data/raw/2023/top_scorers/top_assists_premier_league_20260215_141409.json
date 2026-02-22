@@ -1,0 +1,1852 @@
+{
+  "get": "players/topassists",
+  "parameters": {
+    "league": "39",
+    "season": "2023"
+  },
+  "errors": [],
+  "results": 17,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 19366,
+        "name": "O. Watkins",
+        "firstname": "Oliver George Arthur",
+        "lastname": "Watkins",
+        "age": 30,
+        "birth": {
+          "date": "1995-12-30",
+          "place": "Torbay",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180",
+        "weight": "75",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19366.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 37,
+            "minutes": 3221,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.335135",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 86,
+            "on": 47
+          },
+          "goals": {
+            "total": 19,
+            "conceded": 0,
+            "assists": 13,
+            "saves": null
+          },
+          "passes": {
+            "total": 590,
+            "key": 45,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 12,
+            "blocks": 4,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 322,
+            "won": 128
+          },
+          "dribbles": {
+            "attempts": 57,
+            "success": 26,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 41,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 152982,
+        "name": "C. Palmer",
+        "firstname": "Cole Jermaine",
+        "lastname": "Palmer",
+        "age": 23,
+        "birth": {
+          "date": "2002-05-06",
+          "place": "Manchester",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "189",
+        "weight": "76",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/152982.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 49,
+            "name": "Chelsea",
+            "logo": "https://media.api-sports.io/football/teams/49.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 33,
+            "lineups": 29,
+            "minutes": 2618,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.745454",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": 15,
+            "bench": 4
+          },
+          "shots": {
+            "total": 76,
+            "on": 46
+          },
+          "goals": {
+            "total": 22,
+            "conceded": 0,
+            "assists": 11,
+            "saves": null
+          },
+          "passes": {
+            "total": 1302,
+            "key": 72,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 2,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 229,
+            "won": 102
+          },
+          "dribbles": {
+            "attempts": 98,
+            "success": 52,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 7,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 9,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 50,
+            "name": "Manchester City",
+            "logo": "https://media.api-sports.io/football/teams/50.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 1,
+            "lineups": 0,
+            "minutes": 10,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.745454",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 0,
+            "bench": 3
+          },
+          "shots": {
+            "total": 76,
+            "on": 46
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 11,
+            "saves": null
+          },
+          "passes": {
+            "total": 1302,
+            "key": 72,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 23,
+            "blocks": 2,
+            "interceptions": 20
+          },
+          "duels": {
+            "total": 229,
+            "won": 102
+          },
+          "dribbles": {
+            "attempts": 98,
+            "success": 52,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 9,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 306,
+        "name": "Mohamed Salah",
+        "firstname": "Mohamed",
+        "lastname": "Salah Hamed Mahrous Ghaly",
+        "age": 33,
+        "birth": {
+          "date": "1992-06-15",
+          "place": "Mu\u1e25\u0101fa\u1e93at al Gharbiyya",
+          "country": "Egypt"
+        },
+        "nationality": "Egypt",
+        "height": "175",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/306.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 40,
+            "name": "Liverpool",
+            "logo": "https://media.api-sports.io/football/teams/40.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 32,
+            "lineups": 31,
+            "minutes": 2535,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.581250",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 90,
+            "on": 56
+          },
+          "goals": {
+            "total": 18,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 935,
+            "key": 68,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 17,
+            "blocks": 1,
+            "interceptions": 2
+          },
+          "duels": {
+            "total": 225,
+            "won": 76
+          },
+          "dribbles": {
+            "attempts": 76,
+            "success": 27,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 5,
+            "missed": 2,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 186,
+        "name": "Son Heung-Min",
+        "firstname": "Heung-Min",
+        "lastname": "Son",
+        "age": 33,
+        "birth": {
+          "date": "1992-07-08",
+          "place": "Chuncheon",
+          "country": "Korea Republic"
+        },
+        "nationality": "Korea Republic",
+        "height": "183",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/186.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 47,
+            "name": "Tottenham",
+            "logo": "https://media.api-sports.io/football/teams/47.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 34,
+            "minutes": 2948,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.568571",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": 15,
+            "bench": 1
+          },
+          "shots": {
+            "total": 63,
+            "on": 40
+          },
+          "goals": {
+            "total": 17,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 1025,
+            "key": 69,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 21,
+            "blocks": 1,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 230,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 86,
+            "success": 39,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 39,
+            "committed": 12
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 138787,
+        "name": "A. Gordon",
+        "firstname": "Anthony Michael",
+        "lastname": "Gordon",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-24",
+          "place": "Liverpool",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138787.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 34,
+            "name": "Newcastle",
+            "logo": "https://media.api-sports.io/football/teams/34.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 2900,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.402857",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 55,
+            "on": 31
+          },
+          "goals": {
+            "total": 11,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 922,
+            "key": 57,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 55,
+            "blocks": null,
+            "interceptions": 7
+          },
+          "duels": {
+            "total": 377,
+            "won": 183
+          },
+          "dribbles": {
+            "attempts": 110,
+            "success": 53,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 66,
+            "committed": 38
+          },
+          "cards": {
+            "yellow": 12,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 37127,
+        "name": "M. \u00d8degaard",
+        "firstname": "Martin",
+        "lastname": "\u00d8degaard",
+        "age": 27,
+        "birth": {
+          "date": "1998-12-17",
+          "place": "Drammen",
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": "178",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/37127.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 42,
+            "name": "Arsenal",
+            "logo": "https://media.api-sports.io/football/teams/42.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 35,
+            "minutes": 3104,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.654285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 13,
+            "bench": 1
+          },
+          "shots": {
+            "total": 47,
+            "on": 23
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 1900,
+            "key": 102,
+            "accuracy": 47
+          },
+          "tackles": {
+            "total": 49,
+            "blocks": 1,
+            "interceptions": 15
+          },
+          "duels": {
+            "total": 301,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 75,
+            "success": 37,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 36,
+            "committed": 30
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 2,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18746,
+        "name": "M. Gibbs-White",
+        "firstname": "Morgan Anthony",
+        "lastname": "Gibbs-White",
+        "age": 25,
+        "birth": {
+          "date": "2000-01-27",
+          "place": "Stafford",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "171",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18746.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 36,
+            "minutes": 3160,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.243243",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 46,
+            "on": 15
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 1282,
+            "key": 75,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 36,
+            "blocks": 8,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 419,
+            "won": 197
+          },
+          "dribbles": {
+            "attempts": 99,
+            "success": 44,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 57,
+            "committed": 37
+          },
+          "cards": {
+            "yellow": 9,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 629,
+        "name": "K. De Bruyne",
+        "firstname": "Kevin",
+        "lastname": "De Bruyne",
+        "age": 34,
+        "birth": {
+          "date": "1991-06-28",
+          "place": "Drongen",
+          "country": "Belgium"
+        },
+        "nationality": "Belgium",
+        "height": "181",
+        "weight": "68",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/629.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 50,
+            "name": "Manchester City",
+            "logo": "https://media.api-sports.io/football/teams/50.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 21,
+            "lineups": 17,
+            "minutes": 1235,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.933333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 30,
+            "on": 17
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 804,
+            "key": 59,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 14,
+            "blocks": null,
+            "interceptions": 4
+          },
+          "duels": {
+            "total": 113,
+            "won": 43
+          },
+          "dribbles": {
+            "attempts": 31,
+            "success": 10,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 13,
+            "committed": 11
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18970,
+        "name": "P. Gro\u00df",
+        "firstname": "Pascal",
+        "lastname": "Gro\u00df",
+        "age": 34,
+        "birth": {
+          "date": "1991-06-15",
+          "place": "Mannheim",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "181",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18970.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 51,
+            "name": "Brighton",
+            "logo": "https://media.api-sports.io/football/teams/51.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 36,
+            "minutes": 3114,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.577777",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 35,
+            "on": 20
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 2927,
+            "key": 105,
+            "accuracy": 73
+          },
+          "tackles": {
+            "total": 70,
+            "blocks": 8,
+            "interceptions": 22
+          },
+          "duels": {
+            "total": 248,
+            "won": 127
+          },
+          "dribbles": {
+            "attempts": 29,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 27,
+            "committed": 23
+          },
+          "cards": {
+            "yellow": 6,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 1,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 169,
+        "name": "K. Trippier",
+        "firstname": "Kieran John",
+        "lastname": "Trippier",
+        "age": 35,
+        "birth": {
+          "date": "1990-09-19",
+          "place": "Bury",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "178",
+        "weight": "71",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/169.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 34,
+            "name": "Newcastle",
+            "logo": "https://media.api-sports.io/football/teams/34.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 26,
+            "minutes": 2239,
+            "number": null,
+            "position": "Defender",
+            "rating": "7.333333",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 5,
+            "bench": 2
+          },
+          "shots": {
+            "total": 6,
+            "on": 2
+          },
+          "goals": {
+            "total": 1,
+            "conceded": 0,
+            "assists": 10,
+            "saves": null
+          },
+          "passes": {
+            "total": 1711,
+            "key": 65,
+            "accuracy": 48
+          },
+          "tackles": {
+            "total": 57,
+            "blocks": 8,
+            "interceptions": 24
+          },
+          "duels": {
+            "total": 224,
+            "won": 125
+          },
+          "dribbles": {
+            "attempts": 22,
+            "success": 16,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 27
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 983,
+        "name": "L. Bailey",
+        "firstname": "Leon Patrick",
+        "lastname": "Bailey Butler",
+        "age": 28,
+        "birth": {
+          "date": "1997-08-09",
+          "place": "Kingston",
+          "country": "Jamaica"
+        },
+        "nationality": "Jamaica",
+        "height": "178",
+        "weight": "77",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/983.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 66,
+            "name": "Aston Villa",
+            "logo": "https://media.api-sports.io/football/teams/66.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 31,
+            "minutes": 2072,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.131428",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 37,
+            "on": 18
+          },
+          "goals": {
+            "total": 10,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 701,
+            "key": 52,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 13,
+            "blocks": 1,
+            "interceptions": 9
+          },
+          "duels": {
+            "total": 266,
+            "won": 110
+          },
+          "dribbles": {
+            "attempts": 107,
+            "success": 57,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 26
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 44,
+        "name": "Rodri",
+        "firstname": "Rodrigo",
+        "lastname": "Hern\u00e1ndez Cascante",
+        "age": 29,
+        "birth": {
+          "date": "1996-06-22",
+          "place": "Madrid",
+          "country": "Spain"
+        },
+        "nationality": "Spain",
+        "height": "190",
+        "weight": "82",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/44.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 50,
+            "name": "Manchester City",
+            "logo": "https://media.api-sports.io/football/teams/50.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 34,
+            "minutes": 2938,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.982352",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 1,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 46,
+            "on": 22
+          },
+          "goals": {
+            "total": 8,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 3630,
+            "key": 50,
+            "accuracy": 98
+          },
+          "tackles": {
+            "total": 70,
+            "blocks": 8,
+            "interceptions": 26
+          },
+          "duels": {
+            "total": 340,
+            "won": 201
+          },
+          "dribbles": {
+            "attempts": 56,
+            "success": 42,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 35,
+            "committed": 41
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": null,
+            "red": 1
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 636,
+        "name": "Bernardo Silva",
+        "firstname": "Bernardo",
+        "lastname": "Mota Veiga de Carvalho e Silva",
+        "age": 31,
+        "birth": {
+          "date": "1994-08-10",
+          "place": "Lisboa",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "173",
+        "weight": "65",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/636.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 50,
+            "name": "Manchester City",
+            "logo": "https://media.api-sports.io/football/teams/50.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 35,
+            "lineups": 30,
+            "minutes": 2581,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.487500",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 5,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 26,
+            "on": 15
+          },
+          "goals": {
+            "total": 6,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 1824,
+            "key": 64,
+            "accuracy": 49
+          },
+          "tackles": {
+            "total": 51,
+            "blocks": 4,
+            "interceptions": 17
+          },
+          "duels": {
+            "total": 235,
+            "won": 117
+          },
+          "dribbles": {
+            "attempts": 59,
+            "success": 38,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 22
+          },
+          "cards": {
+            "yellow": 8,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 153430,
+        "name": "A. Elanga",
+        "firstname": "Anthony David",
+        "lastname": "Junior Elanga",
+        "age": 23,
+        "birth": {
+          "date": "2002-04-27",
+          "place": "Malm\u00f6",
+          "country": "Sweden"
+        },
+        "nationality": "Sweden",
+        "height": "178",
+        "weight": "70",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/153430.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 65,
+            "name": "Nottingham Forest",
+            "logo": "https://media.api-sports.io/football/teams/65.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 25,
+            "minutes": 2433,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.894444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 11,
+            "out": 10,
+            "bench": 11
+          },
+          "shots": {
+            "total": 43,
+            "on": 23
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 645,
+            "key": 33,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 233,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 70,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 34,
+            "name": "Newcastle",
+            "logo": "https://media.api-sports.io/football/teams/34.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 36,
+            "lineups": 32,
+            "minutes": 2434,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.894444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 4,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 43,
+            "on": 23
+          },
+          "goals": {
+            "total": 5,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 645,
+            "key": 33,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 233,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 70,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 1,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        },
+        {
+          "team": {
+            "id": 33,
+            "name": "Manchester United",
+            "logo": "https://media.api-sports.io/football/teams/33.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 0,
+            "lineups": 0,
+            "minutes": 0,
+            "number": null,
+            "position": "Attacker",
+            "rating": "6.894444",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 0,
+            "out": 0,
+            "bench": 0
+          },
+          "shots": {
+            "total": 43,
+            "on": 23
+          },
+          "goals": {
+            "total": 0,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 645,
+            "key": 33,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 2,
+            "interceptions": 8
+          },
+          "duels": {
+            "total": 233,
+            "won": 104
+          },
+          "dribbles": {
+            "attempts": 70,
+            "success": 28,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 26,
+            "committed": 9
+          },
+          "cards": {
+            "yellow": 0,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 18784,
+        "name": "J. Maddison",
+        "firstname": "James Daniel",
+        "lastname": "Maddison",
+        "age": 29,
+        "birth": {
+          "date": "1996-11-23",
+          "place": "Coventry",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "175",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18784.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 47,
+            "name": "Tottenham",
+            "logo": "https://media.api-sports.io/football/teams/47.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 28,
+            "lineups": 26,
+            "minutes": 2154,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.539285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 22,
+            "bench": 2
+          },
+          "shots": {
+            "total": 39,
+            "on": 23
+          },
+          "goals": {
+            "total": 4,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 1346,
+            "key": 68,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 33,
+            "blocks": 3,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 250,
+            "won": 142
+          },
+          "dribbles": {
+            "attempts": 66,
+            "success": 32,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 74,
+            "committed": 21
+          },
+          "cards": {
+            "yellow": 5,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 1864,
+        "name": "Pedro Neto",
+        "firstname": "Pedro",
+        "lastname": "Lomba Neto",
+        "age": 25,
+        "birth": {
+          "date": "2000-03-09",
+          "place": "Viana do Castelo",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "174",
+        "weight": "62",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1864.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 39,
+            "name": "Wolves",
+            "logo": "https://media.api-sports.io/football/teams/39.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 20,
+            "lineups": 18,
+            "minutes": 1520,
+            "number": null,
+            "position": "Attacker",
+            "rating": "7.240000",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": 6,
+            "bench": 3
+          },
+          "shots": {
+            "total": 28,
+            "on": 12
+          },
+          "goals": {
+            "total": 2,
+            "conceded": 0,
+            "assists": 9,
+            "saves": null
+          },
+          "passes": {
+            "total": 589,
+            "key": 38,
+            "accuracy": null
+          },
+          "tackles": {
+            "total": 7,
+            "blocks": 1,
+            "interceptions": 5
+          },
+          "duels": {
+            "total": 174,
+            "won": 69
+          },
+          "dribbles": {
+            "attempts": 79,
+            "success": 37,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 21,
+            "committed": 15
+          },
+          "cards": {
+            "yellow": 4,
+            "yellowred": 0,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    },
+    {
+      "player": {
+        "id": 631,
+        "name": "P. Foden",
+        "firstname": "Philip Walter",
+        "lastname": "Foden",
+        "age": 25,
+        "birth": {
+          "date": "2000-05-28",
+          "place": "Stockport",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "171",
+        "weight": "63",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/631.png"
+      },
+      "statistics": [
+        {
+          "team": {
+            "id": 50,
+            "name": "Manchester City",
+            "logo": "https://media.api-sports.io/football/teams/50.png"
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023
+          },
+          "games": {
+            "appearences": 37,
+            "lineups": 35,
+            "minutes": 2874,
+            "number": null,
+            "position": "Midfielder",
+            "rating": "7.794285",
+            "captain": false
+          },
+          "substitutes": {
+            "in": 2,
+            "out": null,
+            "bench": null
+          },
+          "shots": {
+            "total": 64,
+            "on": 48
+          },
+          "goals": {
+            "total": 19,
+            "conceded": 0,
+            "assists": 8,
+            "saves": null
+          },
+          "passes": {
+            "total": 1670,
+            "key": 73,
+            "accuracy": 42
+          },
+          "tackles": {
+            "total": 31,
+            "blocks": null,
+            "interceptions": 13
+          },
+          "duels": {
+            "total": 287,
+            "won": 144
+          },
+          "dribbles": {
+            "attempts": 93,
+            "success": 47,
+            "past": null
+          },
+          "fouls": {
+            "drawn": 60,
+            "committed": 14
+          },
+          "cards": {
+            "yellow": 2,
+            "yellowred": null,
+            "red": 0
+          },
+          "penalty": {
+            "won": null,
+            "commited": null,
+            "scored": 0,
+            "missed": 0,
+            "saved": null
+          }
+        }
+      ]
+    }
+  ]
+}
