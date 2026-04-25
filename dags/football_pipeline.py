@@ -1,5 +1,6 @@
 from airflow import DAG
 from airflow.operators.python import PythonOperator
+from airflow.operators.bash import BashOperator
 from datetime import datetime, timedelta
 import requests
 import json
@@ -20,7 +21,10 @@ LEAGUES_API = {
     "champions_league": {"id": 2,   "name": "Champions League"},
 }
 
-SEASON = 2024
+# Determine current season dynamically (e.g. if before August, use previous year)
+current_month = datetime.now().month
+current_year = datetime.now().year
+SEASON = current_year if current_month >= 8 else current_year - 1
 HEADERS = {"x-apisports-key": os.environ["API_KEY"]}
 BASE_URL = "https://v3.football.api-sports.io"
 
@@ -139,10 +143,7 @@ def fetch_team_results():
     conn.close()
     print("✅ Team results done!")
 
-def run_dbt():
-    print("🔄 Running dbt transformations...")
-    os.system("cd /opt/airflow/dbt_project && dbt run --profiles-dir /opt/airflow/dbt_project")
-    print("✅ dbt done!")
+# Removed run_dbt Python function since we will use BashOperator directly
 
 # ============================================
 # DAG DEFINITION
@@ -166,7 +167,11 @@ with DAG(
     t1 = PythonOperator(task_id="fetch_standings",    python_callable=fetch_standings)
     t2 = PythonOperator(task_id="fetch_top_scorers",  python_callable=fetch_top_scorers)
     t3 = PythonOperator(task_id="fetch_team_results", python_callable=fetch_team_results)
-    t4 = PythonOperator(task_id="run_dbt",            python_callable=run_dbt)
+    
+    t4 = BashOperator(
+        task_id="run_dbt",
+        bash_command="cd /opt/airflow/dbt_project && dbt run --profiles-dir /opt/airflow/dbt_project",
+    )
 
-    # Pipeline order
-    t1 >> t2 >> t3 >> t4
+    # Pipeline order: fetch tasks in parallel, then run dbt
+    [t1, t2, t3] >> t4
